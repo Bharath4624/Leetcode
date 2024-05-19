@@ -21,7 +21,6 @@ class Solution {
         int left=getleft(root);
         int right=getright(root);
         if(left==right){
-            System.gc();
             return (2<<(left))-1;
         }
         else{
