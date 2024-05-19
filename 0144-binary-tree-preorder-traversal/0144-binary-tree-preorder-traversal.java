@@ -14,18 +14,55 @@
  * }
  */
 class Solution {
-    List<Integer> preorder(TreeNode root,List<Integer> list) {
-
-        if(root==null)
-            return list;
-        list.add(root.val);
-        preorder(root.left,list);
-        preorder(root.right,list);
-        return list;
-    }
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<Integer>();
-        list = preorder(root,list);
+        // List<Integer> list=new ArrayList<>();
+        // if(root==null){
+        //     return list;
+        // }
+        // list.add(root.val);
+        // list.addAll(preorderTraversal(root.left));
+        // list.addAll(preorderTraversal(root.right));
+        // return list;
+        // List<Integer> preorder=new ArrayList<>();
+        // if(root==null){
+        //     return preorder;
+        // }
+        // Stack<TreeNode> stack=new Stack<>();
+        // stack.push(root);
+        // while(!stack.isEmpty()){
+        //     root=stack.pop();
+        //     preorder.add(root.val);
+        //     if(root.right!=null){
+        //         stack.push(root.right);
+        //     }
+        //     if(root.left!=null){
+        //         stack.push(root.left);
+        //     }
+        // }
+        // return preorder;
+        List<Integer> list=new ArrayList<>();
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left==null){
+                list.add(curr.val);
+                curr=curr.right;
+            }
+            else{
+                TreeNode prev=curr.left;
+                while(prev.right!=null && prev.right!=curr){
+                    prev=prev.right;
+                }
+                if(prev.right==null){
+                    prev.right=curr;
+                    list.add(curr.val);
+                    curr=curr.left;
+                }
+                else{
+                    prev.right=null;
+                    curr=curr.right;
+                }
+            }
+        }
         return list;
     }
 }
