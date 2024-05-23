@@ -57,21 +57,21 @@ class Solution {
             }
         }
     }
-    // public void dfs(int row,int col,char[][] grid,int[][] vis){
-    //     int n=grid.length;
-    //     int m=grid[0].length;
-    //     vis[row][col]=1;
-    //     ,col,grid,vis);
-    //     }if(col+1<m && vis[row][col+1]==0 && grid[row][col+1]=='1'){
-    //         dfs(row,col+1,grid,vis);
-    //     }
-    //     if(col-1>=0 && vis[row][col-1]==0 && grid[row][col-1]=='1'){
-    //         dfs(row,col-1,grid,vis);
-    //     }
-    //     if(row-1>=0 && vis[row-1][col]==0 && grid[row-1][col]=='1'){
-    //         dfs(row-1,col,grid,vis);
-    //     }
-    //     if(row+1<n && vis[row+1][col]==0 && grid[row+1][col]=='1'){
-    //         dfs(row+1
-    // }
+    public void dfs(int row,int col,char[][] grid,int[][] vis){
+        int n=grid.length;
+        int m=grid[0].length;
+        vis[row][col]=1;
+        if(col+1<m && vis[row][col+1]==0 && grid[row][col+1]=='1'){
+            dfs(row,col+1,grid,vis);
+        }
+        if(col-1>=0 && vis[row][col-1]==0 && grid[row][col-1]=='1'){
+            dfs(row,col-1,grid,vis);
+        }
+        if(row-1>=0 && vis[row-1][col]==0 && grid[row-1][col]=='1'){
+            dfs(row-1,col,grid,vis);
+        }
+        if(row+1<n && vis[row+1][col]==0 && grid[row+1][col]=='1'){
+            dfs(row+1,col,grid,vis);
+        }
+    }
 }
