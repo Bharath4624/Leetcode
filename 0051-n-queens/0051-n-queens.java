@@ -7,11 +7,8 @@ class Solution {
             board.add(s);
         }
         int[] left=new int[n];
-        Arrays.fill(left,0);
         int[] upperrow=new int[2*n-1];
-        Arrays.fill(upperrow,0);
         int[] lowerrow=new int[2*n-1];
-        Arrays.fill(lowerrow,0);
         solve(0,board,ans,left,upperrow,lowerrow,n);
         return ans;
     }
