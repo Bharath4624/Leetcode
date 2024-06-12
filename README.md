@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharath4624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Greedy
 |  |
 | ------- |
@@ -41,3 +42,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
