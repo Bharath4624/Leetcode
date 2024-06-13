@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sliding Window
 |  |
 | ------- |
@@ -44,3 +45,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+# Array
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
