@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sliding Window
 |  |
@@ -48,8 +49,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
