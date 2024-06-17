@@ -1,5 +1,8 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
+        if(nums.length<k){
+            return -1;
+        }
         int low=Integer.MIN_VALUE;
         int high=0;
         for(int i:nums){
