@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharath4624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/Bharath4624/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
 # String
 |  |
@@ -62,8 +63,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Bharath4624/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
 # Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+# Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Bharath4624/Leetcode/tree/master/0264-ugly-number-ii) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Bharath4624/Leetcode/tree/master/0264-ugly-number-ii) |
