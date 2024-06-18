@@ -1,19 +1,20 @@
 class Solution {
     public int minInsertions(String s) {
-        int n = s.length();
-        int[] dp = new int[n];
-        for (int i = n - 2; i >= 0; i--) {
-            int prev = 0;
-            for (int j = i + 1; j < n; j++) {
-                int temp = dp[j];
-                if (s.charAt(i) == s.charAt(j)) {
-                    dp[j] = prev;
-                } else {
-                    dp[j] = Math.min(dp[j], dp[j-1]) + 1;
-                }
-                prev = temp;
+        char a[] = s.toCharArray();
+        int n = a.length;
+        int dp[] = new int[n];
+        dp[0] = 1;
+        for(int i=1;i<n;i++){
+            dp[i] = 1;
+            int max =0;
+            for(int j=i-1;j>=0;j--){
+                int nxt = dp[j];
+                if(a[i] == a[j]) dp[j] = 2+max;
+                max = Math.max(max,nxt);
             }
         }
-        return dp[n-1];
+        int max =0;
+        for(int i : dp) max = Math.max(i,max);
+        return n - max;
     }
 }
