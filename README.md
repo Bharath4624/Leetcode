@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Bharath4624/Leetcode/tree/master/0072-edit-distance) |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Greedy
 |  |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Bharath4624/Leetcode/tree/master/0072-edit-distance) |
 | [0264-ugly-number-ii](https://github.com/Bharath4624/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 # Prefix Sum
 |  |
 | ------- |
