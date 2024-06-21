@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharath4624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/Bharath4624/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1138-grumpy-bookstore-owner](https://github.com/Bharath4624/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bharath4624/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Bharath4624/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
