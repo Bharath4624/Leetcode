@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -18,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Hash Table
 |  |
 | ------- |
@@ -99,3 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bharath4624/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
