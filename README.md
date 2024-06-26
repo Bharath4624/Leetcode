@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -21,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bharath4624/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Hash Table
 |  |
 | ------- |
@@ -42,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bharath4624/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Bharath4624/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Bharath4624/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sliding Window
 |  |
@@ -106,3 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bharath4624/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Bharath4624/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
