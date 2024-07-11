@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bharath4624/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Bharath4624/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bharath4624/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Array
 |  |
@@ -205,5 +206,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bharath4624/Leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
