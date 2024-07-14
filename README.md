@@ -143,11 +143,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Bharath4624/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath4624/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Bharath4624/Leetcode/tree/master/0726-number-of-atoms) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bharath4624/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Bharath4624/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0726-number-of-atoms](https://github.com/Bharath4624/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bharath4624/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bharath4624/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharath4624/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Bharath4624/Leetcode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Bharath4624/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Bharath4624/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Bharath4624/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bharath4624/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Bharath4624/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bharath4624/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
